@@ -3,12 +3,12 @@
 * [簡介](README.md)
 * [物件導向](object-oriented/index.md)
   * [為什麼需要物件導向？](object-oriented/why.md)
-  * 如何掌握物件導向的精神？
-  * 新手常犯的錯誤有哪些？
-  * 該怎麼著手設計物件導向的程式？
-  * SOLID 原則
-  * 設計模式
-  * 分層設計
+  * [如何掌握物件導向的精神？](object-oriented/oop-basic.md)
+  * [新手常犯的錯誤有哪些？](object-oriented/mistakes.md)
+  * [該怎麼著手設計物件導向的程式？](object-oriented/design.md)
+  * [SOLID 原則](object-oriented/solid.md)
+  * [設計模式](object-oriented/patterns.md)
+  * [分層設計](object-oriented/layers.md)
 * [測試](testing/index.md)
   * 打破你對測試的舊有思維
   * 怎樣才能算是好的自動化測試
@@ -19,3 +19,6 @@
     * [將一連串的判斷式重構成責任鍊模式](refactoring/refactor-if-else-to-cor.md)
   * [重構 PHP 不良語法](refactoring/refactor-bad-php-code.md)
     * [重構 extract 與 compact](refactoring/refactor-extract-compact.md)
+
+
+
