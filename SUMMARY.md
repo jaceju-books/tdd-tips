@@ -13,6 +13,7 @@
   * [打破你對測試的舊有思維](testing/old-school.md)
   * [有效的自動化單元測試](testing/effective-unit-testing.md)
   * [測試替身](testing/testing-doubles.md)
+  * [測試驅動開發](testing/test-driven-development.md)
 * [重構](refactoring/index.md)
   * [分析程式碼品質](refactoring/qa-tools.md)
   * [重構判斷式](refactoring/refactor-if-statement.md)
