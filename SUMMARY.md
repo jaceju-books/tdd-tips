@@ -10,9 +10,9 @@
   * [設計模式](object-oriented/patterns.md)
   * [分層設計](object-oriented/layers.md)
 * [測試](testing/index.md)
-  * 打破你對測試的舊有思維
-  * 怎樣才能算是好的自動化測試
-  * 利用假物件來測試
+  * [打破你對測試的舊有思維](testing/old-school.md)
+  * [有效的自動化單元測試](testing/effective-unit-testing.md)
+  * [測試替身](testing/testing-doubles.md)
 * [重構](refactoring/index.md)
   * [分析程式碼品質](refactoring/qa-tools.md)
   * [重構判斷式](refactoring/refactor-if-statement.md)

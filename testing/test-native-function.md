@@ -52,7 +52,7 @@ class VendorFileCleaner
 ```
 $mockClear = Mockery::mock(VendorFileCleaner::class, $oldFile);
 
-$mockClear->shouldReceive(‘moveToStore’)
+$mockClear->shouldReceive('moveToStore')
 	->with($newFile)
 	->andReturn(true);
 ```
