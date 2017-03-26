@@ -1,8 +1,8 @@
 # Summary
 
 * [簡介](README.md)
-* 物件導向
-  * [為什麼需要物件導向？](object-oriented/index.md)
+* [物件導向](/object-oriented/index.md)
+  * [為什麼需要物件導向？](/object-oriented/index.md)
     * 無法從程序化的思維轉換到物件導向的思維
     * 不瞭解物件導向帶給你什麼好處
     * 物件導向很難寫出好維護的程式碼
