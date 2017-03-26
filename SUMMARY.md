@@ -7,7 +7,7 @@
 * [測試](/testing/index.md)
   * 打破你對測試的舊有思維
   * 怎樣才能算是好的自動化測試
-  * 利用假物件來測試 -->
+  * 利用假物件來測試
 
 * [重構](/refactoring/index.md)
   * [分析程式碼品質](/refactoring/qa-tools.md)
